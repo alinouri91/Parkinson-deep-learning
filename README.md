@@ -22,6 +22,8 @@ First of all, all images have to be skull stripped. To do this, you have execute
 
 Finally for classification, you have to execute "mri.py". This piece of code will load the result of previous section and process them.
 
+
+![alt text](https://github.com/alinouri91/Parkinson-deep-learning/blob/master/im1.tif)
 ### Break down into end to end tests
 
 Explain what these tests test and why
