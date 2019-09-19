@@ -10,10 +10,10 @@ This project consists of two phases:
 
 ### Dataset
 
-PPMI dataset is used in this project:  https://www.ppmi-info.org/access-data-specimens/download-data/
+PPMI dataset is used in this project:  
 
 ```
-Give examples
+https://www.ppmi-info.org/access-data-specimens/download-data/
 ```
 
 ### Installing
