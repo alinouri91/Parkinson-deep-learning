@@ -4,11 +4,13 @@ Classification of Brain MR Images in parkinson desease
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This project consists of two phases:
+1- skull stripping in MR images to extract brain
+2- classification of parkinson deseas
 
-### Prerequisites
+### Dataset
 
-What things you need to install the software and how to install them
+PPMI dataset is used in this project:  https://www.ppmi-info.org/access-data-specimens/download-data/
 
 ```
 Give examples
